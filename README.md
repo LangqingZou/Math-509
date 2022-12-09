@@ -1,6 +1,9 @@
-# Exploring famliy wealth with general fear of failure of students
-## Background
-## Dataset
-## Model
-## Analysis
-## Conclusion
+# Group6: Exploring Asian students' resilience
+Group member:<br>
+Langqing Zou <br>
+Rong Wang <br>
+Yuan Wang <br>
+
+## Final report
+
+
